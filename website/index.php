@@ -9,7 +9,7 @@
         <link rel="stylesheet" type="text/css" href="vendors/css/grid.css">
         <link rel="stylesheet" type="text/css" href="vendors/css/ionicons.min.css">
         <link rel="stylesheet" type="text/css" href="vendors/css/animate.css">
-        <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+        <link rel="stylesheet" type="text/css" href="resources/css/style.css">l
         <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
         <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
         <title>Nabil Khaja</title>
@@ -188,7 +188,7 @@
                 </div>
   
                 <div class="col span-1-of-4 box">
-                    <img src="resources/img/panel.jpg.jpg" alt="panel">
+                    <img src="resources/img/panel.jpg" alt="panel">
                     <h3>Solar Generator</h3>
                         <ul class="highlights">
                             <li><i class="ion-ios-checkmark-empty icon-small"></i>1600W</li>
