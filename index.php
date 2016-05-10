@@ -48,7 +48,7 @@
                         <li><a href="#features" class="js--scroll-about">About Me</a></li>
                         <li><a href="#works" class="js--scroll-projects">Projects</a></li>
                         <li><a href="#cities" class="js--scroll-contact">Contact</a></li>
-                        <li><a href="#plans">Resume</a></li>
+                        <li><a href="resources/files/resume.pdf" target="_blank">Resume</a></li>
                     </ul>
                     <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
                 </div>
