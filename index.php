@@ -45,9 +45,9 @@
                     <!--<img src="resources/img/nablogo.png" alt="Omnifood logo" class="logo"> -->
                     <!--<img src="resources/img/nablogo.png" alt="Omnifood logo" class="logo-black"> -->
                     <ul class="main-nav js--main-nav">
-                        <li><a href="#features" class="js--scroll-about">About Me</a></li>
-                        <li><a href="#works" class="js--scroll-projects">Projects</a></li>
-                        <li><a href="#cities" class="js--scroll-contact">Contact</a></li>
+                        <li><a href="#about" class="js--scroll-about">About Me</a></li>
+                        <li><a href="#projects" class="js--scroll-projects">Projects</a></li>
+                        <li><a href="#contact" class="js--scroll-contact">Contact</a></li>
                         <li><a href="resources/files/resume.pdf" target="_blank">Resume</a></li>
                     </ul>
                     <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
