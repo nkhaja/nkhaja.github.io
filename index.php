@@ -194,7 +194,7 @@
                             <li><i class="ion-ios-checkmark-empty icon-small"></i>1600W</li>
                             <li><i class="ion-ios-checkmark-empty icon-small"></i>Built by hand</li>
                             <li><i class="ion-ios-checkmark-empty icon-small"></i>Installed at teaching farm</li>
-                            <li><i class="ion-ios-checkmark-empty icon-small"></i><a href="resources/files/generator.pdf" target="_blank">Features I programmed</a></li>
+                            <li><i class="ion-ios-checkmark-empty icon-small"></i><a href="resources/files/generator.pdf" target="_blank">See more</a></li>
                         </ul>
                 </div>
                 <div class="col span-1-of-4 box">
